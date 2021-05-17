@@ -1,0 +1,56 @@
+﻿@model MemberPortal.Models.MockDatabasePolicy
+
+@{ ViewData["Title"] = "AddNewPolicy";
+    Layout = "~/Views/Home/_AdminLayout.cshtml";}
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddNewPolicy" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+            <div class="form-group">
+                <label asp-for="PolicyID" class="control-label"></label>
+                <input asp-for="PolicyID" class="form-control" />
+                <span asp-validation-for="PolicyID" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="PolicyNO" class="control-label"></label>
+                <input asp-for="PolicyNO" class="form-control" />
+                <span asp-validation-for="PolicyNO" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="BenefitID" class="control-label"></label>
+                <input asp-for="BenefitID" class="form-control" />
+                <span asp-validation-for="BenefitID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Premium" class="control-label"></label>
+                <input asp-for="Premium" class="form-control" />
+                <span asp-validation-for="Premium" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Tenure" class="control-label"></label>
+                <input asp-for="Tenure" class="form-control" />
+                <span asp-validation-for="Tenure" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

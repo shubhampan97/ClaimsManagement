@@ -1,0 +1,72 @@
+﻿@model MemberPortal.Models.MockDatabaseMember
+
+@{ ViewData["Title"] = "UpdateMember";
+    Layout = "~/Views/Home/_AdminLayout.cshtml";}
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SubmitUpdateMember" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="MemberID" class="control-label"></label>
+                <input asp-for="MemberID" class="form-control" />
+                
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MemberName" class="control-label"></label>
+                <input asp-for="MemberName" class="form-control" />
+               
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MemberAddress1" class="control-label"></label>
+                <input asp-for="MemberAddress1" class="form-control" />
+                
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MemberAddress2" class="control-label"></label>
+                <input asp-for="MemberAddress2" class="form-control" />
+                
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MemberCity" class="control-label"></label>
+                <input asp-for="MemberCity" class="form-control" />
+                
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MemberPhone" class="control-label"></label>
+                <input asp-for="MemberPhone" class="form-control" />
+               
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Username" class="control-label"></label>
+                <input asp-for="Username" class="form-control" />
+                
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Role" class="control-label"></label>
+                <input asp-for="Role" class="form-control" />
+                
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

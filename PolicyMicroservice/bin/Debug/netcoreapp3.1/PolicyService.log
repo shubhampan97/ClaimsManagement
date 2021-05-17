@@ -1,0 +1,196 @@
+INFO  11:28:25 Application started. Press Ctrl+C to shut down.
+INFO  11:28:25 Application started. Press Ctrl+C to shut down.
+INFO  11:28:25 Hosting environment: Development
+INFO  11:28:25 Hosting environment: Development
+INFO  11:28:25 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:28:25 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:39:45 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  11:39:46 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  11:39:46 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  11:39:46 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  11:39:46 Data Fetched for PolicyId :1
+INFO  11:39:46 GetChainOfProviders Accesed for policyId :1
+INFO  04:06:17 Application started. Press Ctrl+C to shut down.
+INFO  04:06:17 Application started. Press Ctrl+C to shut down.
+INFO  04:06:17 Hosting environment: Development
+INFO  04:06:17 Hosting environment: Development
+INFO  04:06:17 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:06:17 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:19:25 Application started. Press Ctrl+C to shut down.
+INFO  04:19:25 Application started. Press Ctrl+C to shut down.
+INFO  04:19:25 Hosting environment: Development
+INFO  04:19:25 Hosting environment: Development
+INFO  04:19:25 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:19:25 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:22:34 Application started. Press Ctrl+C to shut down.
+INFO  04:22:34 Application started. Press Ctrl+C to shut down.
+INFO  04:22:34 Hosting environment: Development
+INFO  04:22:34 Hosting environment: Development
+INFO  04:22:34 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:22:34 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+ERROR 04:23:08 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:23:08 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:47:47 Application started. Press Ctrl+C to shut down.
+INFO  04:47:47 Application started. Press Ctrl+C to shut down.
+INFO  04:47:47 Hosting environment: Development
+INFO  04:47:47 Hosting environment: Development
+INFO  04:47:47 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:47:47 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:49:58 Application started. Press Ctrl+C to shut down.
+INFO  11:49:58 Application started. Press Ctrl+C to shut down.
+INFO  11:49:58 Hosting environment: Development
+INFO  11:49:58 Hosting environment: Development
+INFO  11:49:58 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:49:58 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:50:48 AddNewPolicy Accesed
+INFO  12:04:20 AddNewPolicy Accesed
+INFO  12:05:28 AddNewPolicy Accesed
+INFO  08:35:47 Application started. Press Ctrl+C to shut down.
+INFO  08:35:47 Application started. Press Ctrl+C to shut down.
+INFO  08:35:47 Hosting environment: Development
+INFO  08:35:47 Hosting environment: Development
+INFO  08:35:47 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  08:35:47 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  03:15:03 Application started. Press Ctrl+C to shut down.
+INFO  03:15:03 Application started. Press Ctrl+C to shut down.
+INFO  03:15:03 Hosting environment: Development
+INFO  03:15:03 Hosting environment: Development
+INFO  03:15:03 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  03:15:03 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  03:16:51 AddNewPolicy Accesed
+INFO  03:49:54 AddNewPolicy Accesed
+INFO  03:50:37 AddNewPolicy Accesed
+INFO  07:44:31 Application started. Press Ctrl+C to shut down.
+INFO  07:44:31 Application started. Press Ctrl+C to shut down.
+INFO  07:44:31 Hosting environment: Development
+INFO  07:44:31 Hosting environment: Development
+INFO  07:44:31 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  07:44:31 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  03:18:54 Application started. Press Ctrl+C to shut down.
+INFO  03:18:54 Application started. Press Ctrl+C to shut down.
+INFO  03:18:54 Hosting environment: Development
+INFO  03:18:54 Hosting environment: Development
+INFO  03:18:54 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  03:18:54 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  06:31:35 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  06:31:37 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  06:31:37 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  06:31:37 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  06:44:36 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  06:44:36 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  06:44:36 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  06:44:36 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  06:46:26 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  06:46:26 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  06:46:26 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  06:46:26 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  06:46:35 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  06:46:35 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  06:46:35 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  06:46:35 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  06:46:45 GetEligibleClaimAmount is accesed for PolicyId :2 MemberId :2 BenefitId :2
+INFO  06:46:48 Data not found for GetEligibleClaimAmount for the entered PolicyId :2 MemberId :2 BenefitId :2
+INFO  06:46:48 GetEligibleBenefit is accessed for MemberId :2 PolicyId :2
+INFO  06:46:48 Data not found in GetEligibleBenefit for the entered MemberId :2 PolicyId :2
+INFO  07:06:32 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  07:06:32 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  07:06:32 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  07:06:32 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  09:05:52 Application started. Press Ctrl+C to shut down.
+INFO  09:05:52 Application started. Press Ctrl+C to shut down.
+INFO  09:05:52 Hosting environment: Development
+INFO  09:05:52 Hosting environment: Development
+INFO  09:05:52 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  09:05:52 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  09:08:08 Application started. Press Ctrl+C to shut down.
+INFO  09:08:08 Application started. Press Ctrl+C to shut down.
+INFO  09:08:08 Hosting environment: Development
+INFO  09:08:08 Hosting environment: Development
+INFO  09:08:08 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  09:08:08 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  09:16:31 Application started. Press Ctrl+C to shut down.
+INFO  09:16:31 Application started. Press Ctrl+C to shut down.
+INFO  09:16:31 Hosting environment: Development
+INFO  09:16:31 Hosting environment: Development
+INFO  09:16:31 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  09:16:31 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  09:18:57 Application started. Press Ctrl+C to shut down.
+INFO  09:18:57 Application started. Press Ctrl+C to shut down.
+INFO  09:18:57 Hosting environment: Development
+INFO  09:18:57 Hosting environment: Development
+INFO  09:18:57 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  09:18:57 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  05:30:08 Application started. Press Ctrl+C to shut down.
+INFO  05:30:08 Application started. Press Ctrl+C to shut down.
+INFO  05:30:08 Hosting environment: Development
+INFO  05:30:08 Hosting environment: Development
+INFO  05:30:08 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  05:30:08 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  06:33:27 Application started. Press Ctrl+C to shut down.
+INFO  06:33:27 Application started. Press Ctrl+C to shut down.
+INFO  06:33:27 Hosting environment: Development
+INFO  06:33:27 Hosting environment: Development
+INFO  06:33:27 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  06:33:27 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:38:42 Application started. Press Ctrl+C to shut down.
+INFO  04:38:42 Application started. Press Ctrl+C to shut down.
+INFO  04:38:42 Hosting environment: Development
+INFO  04:38:42 Hosting environment: Development
+INFO  04:38:42 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:38:42 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:58:13 Application started. Press Ctrl+C to shut down.
+INFO  04:58:13 Application started. Press Ctrl+C to shut down.
+INFO  04:58:13 Hosting environment: Development
+INFO  04:58:13 Hosting environment: Development
+INFO  04:58:13 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:58:13 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  05:08:18 Application started. Press Ctrl+C to shut down.
+INFO  05:08:18 Application started. Press Ctrl+C to shut down.
+INFO  05:08:18 Hosting environment: Development
+INFO  05:08:18 Hosting environment: Development
+INFO  05:08:18 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  05:08:18 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  05:10:06 AddNewPolicy Accesed
+INFO  05:23:53 Application started. Press Ctrl+C to shut down.
+INFO  05:23:53 Application started. Press Ctrl+C to shut down.
+INFO  05:23:53 Hosting environment: Development
+INFO  05:23:53 Hosting environment: Development
+INFO  05:23:53 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  05:23:53 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  05:24:27 AddNewPolicy Accesed
+INFO  09:55:45 Application started. Press Ctrl+C to shut down.
+INFO  09:55:46 Application started. Press Ctrl+C to shut down.
+INFO  09:55:46 Hosting environment: Development
+INFO  09:55:46 Hosting environment: Development
+INFO  09:55:46 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  09:55:46 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  10:10:41 AddNewPolicy Accesed
+INFO  10:19:40 Application started. Press Ctrl+C to shut down.
+INFO  10:19:40 Application started. Press Ctrl+C to shut down.
+INFO  10:19:40 Hosting environment: Development
+INFO  10:19:40 Hosting environment: Development
+INFO  10:19:40 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  10:19:40 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  10:25:52 AddNewPolicy Accesed
+INFO  10:36:52 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  10:36:56 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  10:36:56 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  10:36:56 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  12:23:07 Application started. Press Ctrl+C to shut down.
+INFO  12:23:07 Application started. Press Ctrl+C to shut down.
+INFO  12:23:07 Hosting environment: Development
+INFO  12:23:07 Hosting environment: Development
+INFO  12:23:07 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice
+INFO  12:23:07 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\PolicyMicroservice

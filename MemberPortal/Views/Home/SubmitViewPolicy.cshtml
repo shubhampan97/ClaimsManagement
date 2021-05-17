@@ -1,0 +1,61 @@
+﻿@model MemberPortal.Models.MockDatabasePolicy
+
+@{ ViewData["Title"] = "ViewPolicy";
+    Layout = "~/Views/Home/_AdminLayout.cshtml";
+    }
+
+@if (Model != null)
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("PolictID")
+            </th>
+            <th>
+                @Html.DisplayName("PolicyNO")
+            </th>
+            <th>
+                @Html.DisplayName("BenefitID")
+            </th>
+            <th>
+                @Html.DisplayName("Premium")
+            </th>
+            <th>
+                @Html.DisplayName("Tenure")
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                @Html.DisplayFor(model => model.PolicyID)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.PolicyNO)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.BenefitID)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Premium)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Tenure)
+            </td>
+            
+            <td>
+    </tbody>
+</table> 
+}
+else
+{
+    <div class="container">
+        <div class="jumbotron">
+            <h1 style="color:red;text-align:center">No policy with this ID.</h1>
+        </div>
+    </div>
+    <h2></h2>
+}

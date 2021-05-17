@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "SaveClaim";
+}
+
+
+
+@if(ViewBag.Status!="")
+{
+<div class="container">
+    <div class="jumbotron">
+        <h1 style="text-align:center">Your current status @ViewBag.Status</h1>
+    </div>
+</div>
+}
+else
+{
+<div class="container">
+    <div class="jumbotron">
+        <h1 style="color:red;text-align:center">Input data is not valid</h1>
+    </div>
+</div>
+}

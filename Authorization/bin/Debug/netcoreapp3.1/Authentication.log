@@ -1,0 +1,352 @@
+INFO  11:10:49 Application started. Press Ctrl+C to shut down.
+INFO  11:10:49 Application started. Press Ctrl+C to shut down.
+INFO  11:10:49 Hosting environment: Development
+INFO  11:10:49 Hosting environment: Development
+INFO  11:10:49 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  11:10:49 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  11:29:22 Login method invoked, Username : john@123
+INFO  11:29:22 CheckCredential method invoked.
+INFO  11:39:55 Login method invoked, Username : john@123
+INFO  11:39:55 CheckCredential method invoked.
+INFO  11:53:25 Application started. Press Ctrl+C to shut down.
+INFO  11:53:25 Application started. Press Ctrl+C to shut down.
+INFO  11:53:25 Hosting environment: Development
+INFO  11:53:25 Hosting environment: Development
+INFO  11:53:25 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  11:53:25 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  11:54:01 Login method invoked, Username : john@123
+INFO  11:54:01 CheckCredential method invoked.
+ERROR 11:54:06 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 11:54:06 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  11:54:38 Login method invoked, Username : john@123
+INFO  11:54:38 CheckCredential method invoked.
+ERROR 11:54:42 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 11:54:42 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  11:54:52 Login method invoked, Username : john@123
+INFO  11:54:52 CheckCredential method invoked.
+ERROR 11:54:56 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 11:54:56 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  11:56:07 Login method invoked, Username : john@123
+INFO  11:56:07 CheckCredential method invoked.
+ERROR 11:56:11 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 11:56:11 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  11:59:44 Login method invoked, Username : jack432
+INFO  11:59:44 CheckCredential method invoked.
+ERROR 11:59:48 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 11:59:48 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  04:45:03 Application started. Press Ctrl+C to shut down.
+INFO  04:45:03 Application started. Press Ctrl+C to shut down.
+INFO  04:45:03 Hosting environment: Development
+INFO  04:45:03 Hosting environment: Development
+INFO  04:45:03 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  04:45:03 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  04:52:08 Login method invoked, Username : john@123
+INFO  04:52:08 CheckCredential method invoked.
+INFO  05:24:57 Application started. Press Ctrl+C to shut down.
+INFO  05:24:57 Application started. Press Ctrl+C to shut down.
+INFO  05:24:57 Hosting environment: Development
+INFO  05:24:57 Hosting environment: Development
+INFO  05:24:57 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  05:24:57 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  05:25:26 Login method invoked, Username : string1213
+INFO  05:25:26 CheckCredential method invoked.
+ERROR 05:25:31 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 05:25:31 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  05:29:37 Login method invoked, Username : jack432
+INFO  05:29:37 CheckCredential method invoked.
+ERROR 05:29:41 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 05:29:41 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  05:30:53 Login method invoked, Username : john@123
+INFO  05:30:53 CheckCredential method invoked.
+ERROR 05:30:57 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 05:30:57 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  05:31:09 Login method invoked, Username : john@123
+INFO  05:31:09 CheckCredential method invoked.
+ERROR 05:31:14 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 05:31:14 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  05:31:42 Login method invoked, Username : john@123
+INFO  05:31:42 CheckCredential method invoked.
+ERROR 05:31:46 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 05:31:46 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  05:31:50 Login method invoked, Username : jack432
+INFO  05:31:50 CheckCredential method invoked.
+ERROR 05:31:54 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 05:31:54 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  05:35:00 Login method invoked, Username : jack432
+INFO  05:35:00 CheckCredential method invoked.
+ERROR 05:35:04 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 05:35:04 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  05:39:13 Login method invoked, Username : jack432
+INFO  05:39:13 CheckCredential method invoked.
+ERROR 05:39:17 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 05:39:17 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  05:40:04 Login method invoked, Username : john@123
+INFO  05:40:04 CheckCredential method invoked.
+ERROR 05:40:08 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 05:40:08 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  05:42:04 Login method invoked, Username : jack432
+INFO  05:42:04 CheckCredential method invoked.
+ERROR 05:42:08 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 05:42:08 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  05:56:51 Login method invoked, Username : jack432
+INFO  05:56:51 CheckCredential method invoked.
+INFO  05:58:46 Login method invoked, Username : john@123
+INFO  05:58:46 CheckCredential method invoked.
+INFO  06:12:33 Application started. Press Ctrl+C to shut down.
+INFO  06:12:33 Application started. Press Ctrl+C to shut down.
+INFO  06:12:33 Hosting environment: Development
+INFO  06:12:33 Hosting environment: Development
+INFO  06:12:33 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  06:12:33 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  06:15:57 Login method invoked, Username : john@123
+INFO  06:15:57 CheckCredential method invoked.
+INFO  06:18:51 Login method invoked, Username : jack432
+INFO  06:18:51 CheckCredential method invoked.
+INFO  06:21:46 Login method invoked, Username : jack432
+INFO  06:21:46 CheckCredential method invoked.
+INFO  06:21:55 Login method invoked, Username : john@123
+INFO  06:21:55 CheckCredential method invoked.
+INFO  06:22:29 Login method invoked, Username : jack432
+INFO  06:22:29 CheckCredential method invoked.
+INFO  06:23:52 Login method invoked, Username : jack432
+INFO  06:23:52 CheckCredential method invoked.
+INFO  07:09:42 Login method invoked, Username : jack432
+INFO  07:09:42 CheckCredential method invoked.
+INFO  07:11:20 Login method invoked, Username : jack432
+INFO  07:11:20 CheckCredential method invoked.
+INFO  07:19:26 Login method invoked, Username : john@123
+INFO  07:19:26 CheckCredential method invoked.
+INFO  07:20:52 Login method invoked, Username : john@123
+INFO  07:20:52 CheckCredential method invoked.
+INFO  07:41:31 Login method invoked, Username : john@123
+INFO  07:41:31 CheckCredential method invoked.
+INFO  07:45:00 Login method invoked, Username : john@123
+INFO  07:45:00 CheckCredential method invoked.
+INFO  07:45:47 Login method invoked, Username : jack432
+INFO  07:45:47 CheckCredential method invoked.
+INFO  02:59:27 Application started. Press Ctrl+C to shut down.
+INFO  02:59:27 Application started. Press Ctrl+C to shut down.
+INFO  02:59:27 Hosting environment: Development
+INFO  02:59:27 Hosting environment: Development
+INFO  02:59:27 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  02:59:27 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  03:06:20 Login method invoked, Username : john@123
+INFO  03:06:20 CheckCredential method invoked.
+INFO  03:12:13 Login method invoked, Username : john@123
+INFO  03:12:13 CheckCredential method invoked.
+INFO  03:17:01 Login method invoked, Username : jack432
+INFO  03:17:01 CheckCredential method invoked.
+INFO  03:17:49 Login method invoked, Username : john@123
+INFO  03:17:49 CheckCredential method invoked.
+INFO  03:18:48 Login method invoked, Username : john@123
+INFO  03:18:48 CheckCredential method invoked.
+INFO  03:19:05 Login method invoked, Username : john@123
+INFO  03:19:05 CheckCredential method invoked.
+INFO  03:34:38 Login method invoked, Username : jack432
+INFO  03:34:38 CheckCredential method invoked.
+INFO  03:34:56 Login method invoked, Username : john@123
+INFO  03:34:56 CheckCredential method invoked.
+INFO  03:53:32 Login method invoked, Username : john@123
+INFO  03:53:32 CheckCredential method invoked.
+INFO  08:33:13 Application started. Press Ctrl+C to shut down.
+INFO  08:33:13 Application started. Press Ctrl+C to shut down.
+INFO  08:33:13 Hosting environment: Development
+INFO  08:33:13 Hosting environment: Development
+INFO  08:33:13 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  08:33:13 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  08:48:22 Login method invoked, Username : john@123
+INFO  08:48:22 CheckCredential method invoked.
+INFO  08:49:39 Login method invoked, Username : john@123
+INFO  08:49:39 CheckCredential method invoked.
+INFO  08:58:06 Login method invoked, Username : john@123
+INFO  08:58:06 CheckCredential method invoked.
+INFO  09:51:57 Login method invoked, Username : john@123
+INFO  09:51:57 CheckCredential method invoked.
+INFO  09:56:12 Login method invoked, Username : john@123
+INFO  09:56:12 CheckCredential method invoked.
+INFO  11:33:02 Login method invoked, Username : john@123
+INFO  11:33:02 CheckCredential method invoked.
+INFO  03:13:59 Application started. Press Ctrl+C to shut down.
+INFO  03:13:59 Application started. Press Ctrl+C to shut down.
+INFO  03:13:59 Hosting environment: Development
+INFO  03:13:59 Hosting environment: Development
+INFO  03:13:59 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  03:13:59 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  03:20:28 Login method invoked, Username : john@123
+INFO  03:20:28 CheckCredential method invoked.
+INFO  03:24:23 Application started. Press Ctrl+C to shut down.
+INFO  03:24:23 Application started. Press Ctrl+C to shut down.
+INFO  03:24:23 Hosting environment: Development
+INFO  03:24:23 Hosting environment: Development
+INFO  03:24:23 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  03:24:23 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  03:24:44 Login method invoked, Username : john@123
+INFO  03:24:44 CheckCredential method invoked.
+INFO  03:31:58 Login method invoked, Username : john@123
+INFO  03:31:58 CheckCredential method invoked.
+INFO  03:51:47 Login method invoked, Username : jack432
+INFO  03:51:47 CheckCredential method invoked.
+INFO  03:56:40 Login method invoked, Username : john@123
+INFO  03:56:40 CheckCredential method invoked.
+INFO  04:02:33 Login method invoked, Username : jack432
+INFO  04:02:33 CheckCredential method invoked.
+INFO  04:02:48 Login method invoked, Username : john@123
+INFO  04:02:48 CheckCredential method invoked.
+INFO  04:06:30 Login method invoked, Username : john@123
+INFO  04:06:30 CheckCredential method invoked.
+INFO  04:06:38 Login method invoked, Username : jack432
+INFO  04:06:38 CheckCredential method invoked.
+INFO  04:06:46 Login method invoked, Username : john@123
+INFO  04:06:46 CheckCredential method invoked.
+INFO  07:44:31 Application started. Press Ctrl+C to shut down.
+INFO  07:44:31 Application started. Press Ctrl+C to shut down.
+INFO  07:44:31 Hosting environment: Development
+INFO  07:44:31 Hosting environment: Development
+INFO  07:44:31 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  07:44:31 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  07:57:23 Login method invoked, Username : john@123
+INFO  07:57:23 CheckCredential method invoked.
+INFO  03:17:32 Application started. Press Ctrl+C to shut down.
+INFO  03:17:32 Application started. Press Ctrl+C to shut down.
+INFO  03:17:32 Hosting environment: Development
+INFO  03:17:32 Hosting environment: Development
+INFO  03:17:32 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  03:17:32 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  03:30:48 Login method invoked, Username : jack432
+INFO  03:30:48 CheckCredential method invoked.
+INFO  03:31:54 Login method invoked, Username : john@123
+INFO  03:31:54 CheckCredential method invoked.
+INFO  03:39:09 Login method invoked, Username : jack432
+INFO  03:39:09 CheckCredential method invoked.
+INFO  03:40:55 Login method invoked, Username : jack432
+INFO  03:40:55 CheckCredential method invoked.
+INFO  03:49:37 Login method invoked, Username : jack432
+INFO  03:49:37 CheckCredential method invoked.
+INFO  05:32:13 Login method invoked, Username : jack432
+INFO  05:32:13 CheckCredential method invoked.
+INFO  05:42:31 Login method invoked, Username : jack432
+INFO  05:42:31 CheckCredential method invoked.
+INFO  05:49:00 Login method invoked, Username : jack432
+INFO  05:49:00 CheckCredential method invoked.
+INFO  05:51:44 Login method invoked, Username : john@123
+INFO  05:51:44 CheckCredential method invoked.
+INFO  06:02:56 Login method invoked, Username : jack432
+INFO  06:02:56 CheckCredential method invoked.
+INFO  06:17:59 Login method invoked, Username : jack432
+INFO  06:17:59 CheckCredential method invoked.
+INFO  07:16:16 Login method invoked, Username : jack432
+INFO  07:16:16 CheckCredential method invoked.
+INFO  07:19:50 Login method invoked, Username : john@123
+INFO  07:19:50 CheckCredential method invoked.
+INFO  07:47:50 Login method invoked, Username : john@123
+INFO  07:47:50 CheckCredential method invoked.
+INFO  07:51:50 Login method invoked, Username : john@123
+INFO  07:51:50 CheckCredential method invoked.
+INFO  10:14:03 Login method invoked, Username : jack432
+INFO  10:14:03 CheckCredential method invoked.
+ERROR 10:14:22 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 10:14:22 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  10:26:19 Login method invoked, Username : john@123
+INFO  10:26:19 CheckCredential method invoked.
+INFO  10:34:48 Login method invoked, Username : john@123
+INFO  10:34:48 CheckCredential method invoked.
+INFO  10:37:52 Login method invoked, Username : john@123
+INFO  10:37:52 CheckCredential method invoked.
+INFO  10:41:18 Login method invoked, Username : john@123
+INFO  10:41:18 CheckCredential method invoked.
+INFO  10:58:22 Login method invoked, Username : john@123
+INFO  10:58:22 CheckCredential method invoked.
+INFO  11:11:42 Login method invoked, Username : john@123
+INFO  11:11:42 CheckCredential method invoked.
+INFO  11:14:28 Login method invoked, Username : john@123
+INFO  11:14:28 CheckCredential method invoked.
+INFO  05:29:39 Application started. Press Ctrl+C to shut down.
+INFO  05:29:39 Application started. Press Ctrl+C to shut down.
+INFO  05:29:39 Hosting environment: Development
+INFO  05:29:39 Hosting environment: Development
+INFO  05:29:39 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  05:29:39 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  05:31:53 Login method invoked, Username : john@123
+INFO  05:31:53 CheckCredential method invoked.
+INFO  07:28:01 Application started. Press Ctrl+C to shut down.
+INFO  07:28:01 Application started. Press Ctrl+C to shut down.
+INFO  07:28:01 Hosting environment: Development
+INFO  07:28:01 Hosting environment: Development
+INFO  07:28:01 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  07:28:01 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  07:29:16 Login method invoked, Username : john@123
+INFO  07:29:16 CheckCredential method invoked.
+INFO  07:33:21 Login method invoked, Username : john@123
+INFO  07:33:21 CheckCredential method invoked.
+INFO  07:46:15 Login method invoked, Username : john@123
+INFO  07:46:15 CheckCredential method invoked.
+INFO  07:52:18 Login method invoked, Username : john@123
+INFO  07:52:18 CheckCredential method invoked.
+INFO  07:59:13 Login method invoked, Username : john@123
+INFO  07:59:13 CheckCredential method invoked.
+INFO  08:37:55 Login method invoked, Username : john@123
+INFO  08:37:55 CheckCredential method invoked.
+INFO  08:42:12 Login method invoked, Username : john@123
+INFO  08:42:12 CheckCredential method invoked.
+INFO  08:44:42 Login method invoked, Username : john@123
+INFO  08:44:42 CheckCredential method invoked.
+INFO  08:52:37 Login method invoked, Username : john@123
+INFO  08:52:37 CheckCredential method invoked.
+INFO  08:54:33 Login method invoked, Username : john@123
+INFO  08:54:33 CheckCredential method invoked.
+INFO  04:42:00 Application started. Press Ctrl+C to shut down.
+INFO  04:42:00 Application started. Press Ctrl+C to shut down.
+INFO  04:42:00 Hosting environment: Development
+INFO  04:42:00 Hosting environment: Development
+INFO  04:42:00 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  04:42:00 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  04:48:00 Login method invoked, Username : john@123
+INFO  04:48:01 CheckCredential method invoked.
+INFO  05:26:43 Application started. Press Ctrl+C to shut down.
+INFO  05:26:43 Application started. Press Ctrl+C to shut down.
+INFO  05:26:43 Hosting environment: Development
+INFO  05:26:43 Hosting environment: Development
+INFO  05:26:43 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  05:26:43 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  05:30:39 Login method invoked, Username : john@123
+INFO  05:30:39 CheckCredential method invoked.
+INFO  09:53:31 Application started. Press Ctrl+C to shut down.
+INFO  09:53:31 Application started. Press Ctrl+C to shut down.
+INFO  09:53:31 Hosting environment: Development
+INFO  09:53:31 Hosting environment: Development
+INFO  09:53:31 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  09:53:31 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  10:01:01 Login method invoked, Username : john@123
+INFO  10:01:01 CheckCredential method invoked.
+INFO  10:06:11 Login method invoked, Username : john@123
+INFO  10:06:11 CheckCredential method invoked.
+INFO  10:23:24 Login method invoked, Username : john@123
+INFO  10:23:24 CheckCredential method invoked.
+INFO  10:26:48 Login method invoked, Username : john@123
+INFO  10:26:48 CheckCredential method invoked.
+INFO  10:29:01 Login method invoked, Username : jack432
+INFO  10:29:01 CheckCredential method invoked.
+INFO  12:23:08 Application started. Press Ctrl+C to shut down.
+INFO  12:23:08 Application started. Press Ctrl+C to shut down.
+INFO  12:23:08 Hosting environment: Development
+INFO  12:23:08 Hosting environment: Development
+INFO  12:23:08 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  12:23:08 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  12:34:34 Login method invoked, Username : john@123
+INFO  12:34:34 CheckCredential method invoked.
+INFO  06:33:02 Application started. Press Ctrl+C to shut down.
+INFO  06:33:02 Application started. Press Ctrl+C to shut down.
+INFO  06:33:02 Hosting environment: Development
+INFO  06:33:02 Hosting environment: Development
+INFO  06:33:02 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  06:33:02 Content root path: D:\DOWNLOADS\FIREFOX\Claims-Management-System(2)\ClaimManagementSystem-2\Authorization
+INFO  06:36:37 Login method invoked, Username : john@123
+INFO  06:36:37 CheckCredential method invoked.
+INFO  06:36:49 Login method invoked, Username : jack432
+INFO  06:36:49 CheckCredential method invoked.
+INFO  06:37:02 Login method invoked, Username : john@123
+INFO  06:37:02 CheckCredential method invoked.
+INFO  06:39:18 Login method invoked, Username : john@123
+INFO  06:39:18 CheckCredential method invoked.
+INFO  06:39:24 Login method invoked, Username : jack432
+INFO  06:39:24 CheckCredential method invoked.
